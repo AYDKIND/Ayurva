@@ -73,4 +73,4 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-For questions or feedback, please reach out to [avijh200221024@gmail.com](avijh200221024@gmail.com).
+For questions or feedback, please reach out to [ashutoshyadav995667@gmail.com](ashutoshyadav995667@gmail.com).
